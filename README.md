@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente trabajando en LibrePago C.A<br>Desarrollador FullStack<br>Curiosidad por proyectos Open Source<br>Contáctame<br>En aprendizaje continuo
+Actualmente trabajando en Soluciones Financieras Chinchin C.A<br>Desarrollador FullStack<br>Curiosidad por proyectos Open Source<br>Contáctame<br>En aprendizaje continuo
 
 
 ## 🌐 Socials:
